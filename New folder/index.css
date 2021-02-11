@@ -1,0 +1,175 @@
+
+body {
+  background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('https://blog.aifsabroad.com/wp-content/uploads/2020/05/AdobeStock_254424115-scaled.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size:100% 100%;;
+     }
+
+ul {
+    list-style-type: none;
+    margin:-10px;
+    padding:0;
+    width: 155px;
+    background-color: #292727;
+    position: fixed;
+    overflow:auto;
+    height:100%;
+    }
+
+li a {
+        display: block;
+        color: rgb(238, 229, 229);
+        padding: 9px 10px;
+        text-decoration: none;
+      }
+
+/* Change the link color on hover */
+li a:hover {
+            background-color: #555; color: white;
+            }
+
+#home {
+    padding:15%;
+    width: 80%;
+    overflow:auto;
+}
+
+.h1{
+  font-family:monospace;
+  font-size: 420%;
+  margin-left: 30%;
+  margin-top: 4%;
+  color: rgb(247, 243, 243);
+}
+.p{
+  font-size: 150%;
+  margin-left: 50%;
+  margin-top: 5px;
+ font-family: cursive;
+ font-weight: bold;
+ color: antiquewhite;
+}
+.hr{ width:50%;
+    text-align:center;
+    margin-left: 35%;
+  }
+  #edu {
+    padding:10;
+    width: 100%;
+    overflow:auto;
+       }
+.h2a{
+  margin-left: 17%;
+  font-family:serif;
+  font-size: 25px;
+  font-weight: bold;
+  color:rgb(222, 228, 228);
+}
+.a{width:13%; margin-left: 17%;}
+.aa{ width:20%; margin-left:17%;}
+.h4a{
+  margin-left: 17%;
+  font-family:'Times New Roman';
+  font-size: 26px;
+  font-weight:normal;
+  color:rgb(255, 255, 255);
+}
+.pre{
+  margin-left: 16%;
+  font-size: 18px;
+  color:rgb(255, 255, 255);
+}
+
+details > summary {
+  padding: 4px;
+  margin-left: 17%;
+  width: 80%;
+  font-family:'Times New Roman';
+  color: rgb(236, 226, 226);
+  font-size: 26px;
+  font-weight:normal;
+  background-color: #1a1717;
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+}
+
+details > p {
+  background-color: #585757;
+  margin-left: 17%;
+  padding: 4px;
+  width: 80%;
+  font-size: 20px;
+  font-family: monospace;
+  box-shadow: 1px 1px 2px #bbbbbb;
+}
+
+#skills{
+  padding: 10;
+  width:100%;
+  overflow: auto;
+  margin-top: 150px;
+}
+#projects{
+  padding: 10;
+  width:100%;
+  overflow: auto;
+  margin-top: 130px;
+}
+#cert{
+  padding: 10;
+  width:100%;
+  overflow: auto;
+  margin-bottom: 80px;
+  margin-top:380px ;
+}
+.py{
+  margin-left: 17%;
+  font-size:x-large;
+  color: rgb(224, 53, 110);
+}
+.py1{
+  margin-left: 23%;
+  margin-top: -70px;
+  font-size:x-large;
+  color: rgb(240, 237, 87);
+}
+.tcs{
+  margin-left: 30%;
+  margin-top: -70px;
+  font-size:x-large;
+  color: rgb(224, 53, 110);
+}
+.htm{
+  margin-left: 38%;
+  margin-top: -71px;
+  font-size:x-large;
+  color: rgb(240, 237, 87);
+}
+#activity{
+  padding: 10;
+  width:100%;
+  overflow: auto;
+  margin-bottom: 300px;
+  margin-top: 280px;
+  
+}
+#details {
+  padding: 10;
+  width:100%;
+  overflow: auto;
+  margin-bottom: 300px;
+  margin-top: 380px;  
+}
+.ma {
+  margin-left: 25%;
+  margin-top: -45px;
+  font-size: xx-large;
+  color: rgb(240, 136, 136);
+}
+.lidn {
+  margin-left: 29%;
+  margin-top: -69px;
+  font-size:xx-large;
+  color: rgb(22, 53, 139);
